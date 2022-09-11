@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning and exploring skills around AI & Data Science and working on several Research projects
 - 👀 I’m interested in Deep Learning, Machine Learning, Data Science  & more towards its computational domain like NLP along with Research. 
 - 💞️ I’m open to collaborate
-- 📫 Reach me at: [updating soon]
+- 📫 Reach me at: https://www.linkedin.com/in/prateek-dutta-3622821a1/
 
 ![Prateek Dutta github stats](https://github-readme-stats.vercel.app/api?username=prateekdutta3012&show_icons=true)
  [(source)](https://github.com/anuraghazra/github-readme-stats)
