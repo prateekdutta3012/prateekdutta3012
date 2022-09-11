@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @prateekdutta3012
-- 👀 I’m interested in Research, Deep Learning, Data Science & Machine Learning & more towards its computational domain like NLP.
-- 🌱 I’m currently learning Data Science 
+- I am currently an Intern at Konverge.AI Pvt. Ltd. Nagpur
+- 🌱 I’m currently learning and exploring skills around AI & Data Science and working on several Research projects
+- 👀 I’m interested in Deep Learning, Machine Learning, Data Science  & more towards its computational domain like NLP along with Research. 
 - 💞️ I’m open to collaborate
 - 📫 Reach me at: [updating soon]
 
