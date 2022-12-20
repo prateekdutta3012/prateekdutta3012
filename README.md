@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @prateekdutta3012
-- I am currently an Intern at Konverge.AI Pvt. Ltd. Nagpur
+- I am currently working as a Trainee Intern at Konverge.AI Pvt. Ltd. Nagpur
 - 🌱 I’m currently learning and exploring skills around AI & Data Science and working on several Research projects
 - 👀 I’m interested in Deep Learning, Machine Learning, Data Science  & more towards its computational domain like NLP along with Research. 
 - 💞️ I’m open to collaborate
